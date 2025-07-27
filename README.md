@@ -143,6 +143,10 @@ Para uma lista completa das funções disponíveis, consulte a [documentação o
 
 Esta biblioteca mantém a mesma licença da biblioteca U8G2 original.
 
+## Créditos
+
+- **Oliver Kraus (@olikraus)** - Criador da biblioteca u8g2lib original
+
 ## Contribuição
 
 Contribuições são bem-vindas! Por favor, abra issues ou pull requests no repositório do projeto.
